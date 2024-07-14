@@ -1,0 +1,3 @@
+C:/Users/cosim/CLionProjects/ASFML/cmake-build-debug/CMakeFiles/ASFML.dir
+C:/Users/cosim/CLionProjects/ASFML/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cosim/CLionProjects/ASFML/cmake-build-debug/CMakeFiles/rebuild_cache.dir
